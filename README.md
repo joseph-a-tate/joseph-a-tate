@@ -1,4 +1,5 @@
 # Hello, I’m Joseph Tate
+![Me](https://github.com/joseph-a-tate/joseph-a-tate/assets/150317705/812f84d5-677e-4eef-a71c-e7d3fbfcb2dc)
 
 ### I'm interested in ... 👀
   I have a passion for backend programming. I have experience in network technology and security, servers, databases, and the code that interconnects them all. My dream is to pioneer. I love mathematics, complex systems, and a good story. A couple particular areas of interest I have unrelated to code is geopolitics and space exploration. We may just live in a time where humans will reach mars, how exciting!
