@@ -3,34 +3,20 @@
 
 ### I'm interested in ... 👀
   I have a passion for network engineering. I have experience in network security, infrastructure, management, orchestration, and automation. A couple particular areas of specialization I have in relation to network engineering involves artificial intelligence, programming & scripting, and project management. I love to take complex network systems and find improvements. I also love to implement new and creative solutions; I am a builder and an intuitive thinker. I also understand the importance of comparing all variables (time to implement, minimum viable solution, security constraints, etc) and briefing / weighing the potential options to make the best available decision.
----
+
 ### Technical Qualifications
 #### Industry Certifications
-CCNA
-Security+
+> CCNA, Security+
 #### Programming / Scripting Languages
-Python
-BASH
-PowerShell
+> Python, BASH, PowerShell
 #### Technologies
-Cisco IOS
-Palo Alto (Firewall)
-ESXi VMWare
-PacStar iqCore
-Inline Network Encryption (INE) Devices
-Excel
+> Cisco IOS, Palo Alto (Firewall), ESXi VMWare, PacStar iqCore, Inline Network Encryption (INE) Devices, Excel
 #### Soft Skills
-Leadership
-Mentorship
-Teamwork
-Communication
-Perseverence
-Much, much more
+> Leadership, Teaching, Teamwork, Communication, Perseverence, Honesty, and much, much more
 #### Clearances
-SECRET
+> SECRET
 #### Military Awards
-Army Commendation Medal
-3 Army Achievement Medals
+> Army Commendation Medal, 3 Army Achievement Medals
 
 ### I'm currently learning ... 🌱
   The languages, concepts, and technologies I am currently studying include Go, docker, project code structure, and repository platform programming for data access abstraction.
