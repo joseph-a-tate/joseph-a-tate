@@ -1,5 +1,7 @@
 # Hello, I’m Joseph Tate
-![Me](https://github.com/joseph-a-tate/joseph-a-tate/assets/150317705/812f84d5-677e-4eef-a71c-e7d3fbfcb2dc)
+:-------------------------:|:-------------------------:
+![IMG_0522](https://github.com/user-attachments/assets/e5cc2a6e-f824-463e-ad9b-b907c0f2d694)  |  ![IMG_0895](https://github.com/user-attachments/assets/2fa23983-17f8-457d-82a2-b9f1de3d69ad)
+
 
 ### How to reach me ... 📫
   joseph-a-tate@proton.me
