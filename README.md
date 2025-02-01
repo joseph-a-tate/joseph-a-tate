@@ -2,13 +2,41 @@
 ![Me](https://github.com/joseph-a-tate/joseph-a-tate/assets/150317705/812f84d5-677e-4eef-a71c-e7d3fbfcb2dc)
 
 ### I'm interested in ... 👀
-  I have a passion for backend programming. I have experience in network technology and security, servers, databases, and the code that interconnects them all. My dream is to pioneer. I love mathematics, complex systems, and a good story. A couple particular areas of interest I have unrelated to code is geopolitics and space exploration. We may just live in a time where humans will reach mars, how exciting!
+  I have a passion for network engineering. I have experience in network security, infrastructure, management, orchestration, and automation. A couple particular areas of specialization I have in relation to network engineering involves artificial intelligence, programming & scripting, and project management. I love to take complex network systems and find improvements. I also love to implement new and creative solutions; I am a builder and an intuitive thinker. I also understand the importance of comparing all variables (time to implement, minimum viable solution, security constraints, etc) and briefing / weighing the potential options to make the best available decision.
+
+### Technical Qualifications
+#### Industry Certifications
+CCNA
+Security+
+#### Programming / Scripting Languages
+Python
+BASH
+PowerShell
+#### Technologies
+Cisco IOS
+Palo Alto (Firewall)
+ESXi VMWare
+PacStar iqCore
+Inline Network Encryption (INE) Devices
+Excel
+#### Soft Skills
+Leadership
+Mentorship
+Teamwork
+Communication
+Perseverence
+Much, much more
+#### Clearances
+SECRET
+#### Military Awards
+Army Commendation Medal
+3 Army Achievement Medals
 
 ### I'm currently learning ... 🌱
-  The languages, concepts, and technologies I am currently studying include C, docker, project code structure, and repository platform programming for data access abstraction.
+  The languages, concepts, and technologies I am currently studying include Go, docker, project code structure, and repository platform programming for data access abstraction.
 
 ### I'm looking to collaborate on ... 💞️
-  I would love to work on backend services, software, or embedded systems; anything that has IoT/Networking requirements. I would also be thrilled to learn new technologies, languages, concepts. Most excitably I hope to learn C#, ASP.NET, complex systems, and much more.
+  I would love to work on network architecture and engineering, network related software, or other systems; anything that has IoT/Networking requirements. I would also be thrilled to learn new technologies, languages, concepts. Most excitably I hope to learn RedHat Linux, SQL, complex systems, and much more.
 
 ### How to reach me ... 📫
   joseph-a-tate@proton.me
