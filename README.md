@@ -29,4 +29,5 @@
 
 ### My favorite quote 📝
 > "Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners." _-Margaret H. Hamilton_
+
 ![hamilton](https://github.com/user-attachments/assets/6abf26ab-4147-4ff0-9189-30fb02906f66)
