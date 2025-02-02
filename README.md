@@ -1,8 +1,8 @@
 # Hello, I’m Joseph Tate
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/2fa23983-17f8-457d-82a2-b9f1de3d69ad" width=25%x /> 
-  <img src="https://github.com/user-attachments/assets/45fc51e5-300f-41dd-941a-99a18aa0893b" width=31%x /> 
-  <img src="https://github.com/user-attachments/assets/e5cc2a6e-f824-463e-ad9b-b907c0f2d694" width=25%x />
+  <img src="https://github.com/user-attachments/assets/2fa23983-17f8-457d-82a2-b9f1de3d69ad" width=25%y /> 
+  <img src="https://github.com/user-attachments/assets/45fc51e5-300f-41dd-941a-99a18aa0893b" width=30%y /> 
+  <img src="https://github.com/user-attachments/assets/e5cc2a6e-f824-463e-ad9b-b907c0f2d694" width=25%y />
 </p>
 
 
