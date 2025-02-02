@@ -14,11 +14,11 @@
 
 ### Technical Qualifications
 #### Industry Certifications
-> CCNA, Security+
+> Security+
 #### Programming / Scripting Languages
 > Python, BASH, PowerShell
 #### Technologies
-> Cisco IOS, Palo Alto (Firewall), ESXi VMWare, PacStar iqCore, Inline Network Encryption (INE) Devices, Excel
+> Cisco IOS, Palo Alto, pfSense, ESXi VMWare, NOMs, Inline Network Encryption (INE) Devices, Excel
 #### Soft Skills
 > Leadership, Teaching, Teamwork, Communication, Perseverence, Honesty, and much, much more
 #### Clearances
@@ -27,7 +27,7 @@
 > Army Commendation Medal, 3 Army Achievement Medals
 
 ### I'm currently learning ... 🌱
-  The languages, concepts, and technologies I am currently studying include Go, docker, project code structure, and repository platform programming for data access abstraction.
+  The languages, concepts, and technologies I am currently studying include CCNA, Go, docker, project code structure, and repository platform programming for data access abstraction.
 
 ### I'm looking to collaborate on ... 💞️
   I would love to work on network architecture and engineering, network related software, or other systems; anything that has IoT/Networking requirements. I would also be thrilled to learn new technologies, languages, concepts. Most excitably I hope to learn RedHat Linux, SQL, complex systems, and much more.
