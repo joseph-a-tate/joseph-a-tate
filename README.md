@@ -10,7 +10,7 @@
   joseph-a-tate@proton.me
 
 ### I'm interested in ... 👀
-  I have a passion for network engineering. I have experience in network security, infrastructure, management, orchestration, and automation. A couple particular areas of specialization I have in relation to network engineering involves cybersecurity & scripting. I love to take complex network systems and find improvements. I also love to implement new and creative solutions; I am a builder and an intuitive thinker. I also understand the importance of comparing all variables (time to implement, minimum viable solution, security constraints, etc. and briefing / weighing the potential options to make the best available decision.
+  I have a passion for network engineering. I have experience in network security, infrastructure, management, orchestration, and automation. A couple particular areas of specialization I have in relation to network engineering involves cybersecurity & scripting. I love to take complex network systems and find improvements. I also love to implement new and creative solutions; I am a builder and an intuitive thinker. I also understand the importance of comparing all variables (time to implement, minimum viable solution, security constraints, etc.) and briefing / weighing the potential options to make the best available decision.
 
 ### Technical Qualifications
 #### Industry Certifications
