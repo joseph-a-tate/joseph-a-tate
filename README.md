@@ -14,10 +14,10 @@
 
 ### Technical Qualifications
 #### Industry Certifications
-> Security+, CySA+
+> Security+, CySA+ \n
 CCNA (Work in progress)
 #### Programming / Scripting Languages
-> Python & Cisco IOS
+> Python & Cisco IOS \n
 Bash & Shell (Work in progress)
 #### Soft Skills
 > Leadership, Teaching, Teamwork, Communication, Perseverence, Honesty, and much, much more
