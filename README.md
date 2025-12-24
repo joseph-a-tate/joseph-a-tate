@@ -10,27 +10,24 @@
   joseph-a-tate@proton.me
 
 ### I'm interested in ... 👀
-  I have a passion for network engineering. I have experience in network security, infrastructure, management, orchestration, and automation. A couple particular areas of specialization I have in relation to network engineering involves artificial intelligence, programming & scripting, and project management. I love to take complex network systems and find improvements. I also love to implement new and creative solutions; I am a builder and an intuitive thinker. I also understand the importance of comparing all variables (time to implement, minimum viable solution, security constraints, etc) and briefing / weighing the potential options to make the best available decision.
+  I have a passion for network engineering. I have experience in network security, infrastructure, management, orchestration, and automation. A couple particular areas of specialization I have in relation to network engineering involves cybersecurity & scripting. I love to take complex network systems and find improvements. I also love to implement new and creative solutions; I am a builder and an intuitive thinker. I also understand the importance of comparing all variables (time to implement, minimum viable solution, security constraints, etc) and briefing / weighing the potential options to make the best available decision.
 
 ### Technical Qualifications
 #### Industry Certifications
-> Security+
+> Security+, CySA+
 #### Programming / Scripting Languages
-> Python, BASH, PowerShell
-#### Technologies
-> Cisco IOS, Palo Alto, pfSense, ESXi VMWare, NOMs, Inline Network Encryption (INE) Devices, Excel
+> Python & Cisco IOS
+> Bash & Shell (Work in progress)
 #### Soft Skills
 > Leadership, Teaching, Teamwork, Communication, Perseverence, Honesty, and much, much more
-#### Clearances
-> SECRET
 #### Military Awards
-> Army Commendation Medal, 3 Army Achievement Medals
+> 2 Army Commendation Medals, 4 Army Achievement Medals
 
 ### I'm currently learning ... 🌱
-  The languages, concepts, and technologies I am currently studying include CCNA, Go, docker, project code structure, and repository platform programming for data access abstraction.
+  The languages, concepts, and technologies I am currently studying include CCNA, docker, project code structure, and API programming for remote access to different Operating Systems.
 
 ### I'm looking to collaborate on ... 💞️
-  I would love to work on network architecture and engineering, network related software, or other systems; anything that has IoT/Networking requirements. I would also be thrilled to learn new technologies, languages, concepts. Most excitably I hope to learn RedHat Linux, SQL, complex systems, and much more.
+  I would love to work on network architecture and engineering, network related software, or other systems; anything that has IoT/Networking requirements. I would also be thrilled to learn new technologies, languages, concepts. Most excitably I hope to learn RedHat Linux, Bash & Shell, and much more.
 
 ### My favorite quote 📝
 > "Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners." _-Margaret H. Hamilton_
