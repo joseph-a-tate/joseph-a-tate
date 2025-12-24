@@ -15,9 +15,10 @@
 ### Technical Qualifications
 #### Industry Certifications
 > Security+, CySA+
+CCNA (Work in progress)
 #### Programming / Scripting Languages
 > Python & Cisco IOS
-> Bash & Shell (Work in progress)
+Bash & Shell (Work in progress)
 #### Soft Skills
 > Leadership, Teaching, Teamwork, Communication, Perseverence, Honesty, and much, much more
 #### Military Awards
